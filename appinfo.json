@@ -1,0 +1,27 @@
+{
+  "uuid": "d6f2681d-ebc9-48a1-865d-5b8e95b9481c",
+  "shortName": "Authenticator_2.0",
+  "longName": "Authenticator_2.0",
+  "companyName": "Jnm & Pokey9000",
+  "versionCode": 2,
+  "versionLabel": "2.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "capabilities": [ "configurable" ],
+  "appKeys": {
+    "timeoffset":	1248750849,
+    "keynames":		1248750850,
+    "keyvalues":	1248750851
+  },
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/twostep_icon.png"
+      }
+    ]
+  }
+}
